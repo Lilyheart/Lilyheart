@@ -5,22 +5,23 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=Lilyheart&theme=nord&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </p>
 -->
-
-<a href="https://www.linkedin.com/in/lily-romano/">
-  <img alt="Lily's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discordapp.com/users/Lilyheart#4493">
-  <img alt="Lily's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://github.com/Lilyheart">
-  <img alt="Lily's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://gitlab.com/Lilyheart">
-  <img alt="Lily's GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-</a>
-<a href="https://ko-fi.com/lilyheart">
-  <img alt="Lily's KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lily-romano/">
+    <img alt="Lily's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/Lilyheart#4493">
+    <img alt="Lily's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lilyheart">
+    <img alt="Lily's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/Lilyheart">
+    <img alt="Lily's GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/lilyheart">
+    <img alt="Lily's KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  </p>
 
 ## 👩‍💻 About Me
 
