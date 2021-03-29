@@ -51,70 +51,70 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251287%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 101 Contributions in the Year 2021
- > 
-> 📦 176.3 kB Used in Github's Storage 
- > 
+ >
+> 📦 176.3 kB Used in Github's Storage
+ >
 > 💼 Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
+ >
+> 📜 16 Public Repositories
+ >
 > 🔑 13 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    122 commits    ████████░░░░░░░░░░░░░░░░░   32.62% 
-🌆 Daytime    143 commits    █████████░░░░░░░░░░░░░░░░   38.24% 
-🌃 Evening    99 commits     ██████░░░░░░░░░░░░░░░░░░░   26.47% 
+🌞 Morning    122 commits    ████████░░░░░░░░░░░░░░░░░   32.62%
+🌆 Daytime    143 commits    █████████░░░░░░░░░░░░░░░░   38.24%
+🌃 Evening    99 commits     ██████░░░░░░░░░░░░░░░░░░░   26.47%
 🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-Tuesday      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Wednesday    61 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Thursday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
-Friday       127 commits    ████████░░░░░░░░░░░░░░░░░   33.96% 
-Saturday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
+Monday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
+Tuesday      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+Wednesday    61 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31%
+Thursday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02%
+Friday       127 commits    ████████░░░░░░░░░░░░░░░░░   33.96%
+Saturday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.29%
 Sunday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.61%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/New_York
 
-💬 Programming Languages: 
-JavaScript               7 hrs 13 mins       ███████████████████░░░░░░   76.79% 
-HTML                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
-Sass                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+💬 Programming Languages:
+JavaScript               7 hrs 13 mins       ███████████████████░░░░░░   76.79%
+HTML                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
+Sass                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
-🔥 Editors: 
+🔥 Editors:
 Atom                     9 hrs 24 mins       █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 AIECode                  9 hrs 24 mins       █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    9 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   32.0% 
-Java                     7 repos             ███████░░░░░░░░░░░░░░░░░░   28.0% 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   32.0%
+Java                     7 repos             ███████░░░░░░░░░░░░░░░░░░   28.0%
+HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0%
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 Arduino                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
@@ -122,7 +122,7 @@ Arduino                  1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png)
 
 
 <!--END_SECTION:waka-->
@@ -147,4 +147,16 @@ Arduino                  1 repo              █░░░░░░░░░░�
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilyheart&hide_border=true&bg_color=FFFFFF&title_color=32698E&text_color=282828&icon_color=32698E&layout=compact" />
 </p>
+</details>
+
+----
+
+<details><summary>📽️ README Credits</summary>
+
+- [Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats)
+- [Sheilds.io](https://shields.io/)
+
 </details>
