@@ -96,17 +96,16 @@ Sunday       49 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               40 mins             █████████████████████████   99.94% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Atom                     40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-codechallenges           40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
