@@ -59,7 +59,7 @@
 
 > 🏆 347 Contributions in the Year 2021
  > 
-> 📦 178.7 kB Used in Github's Storage 
+> 📦 178.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -130,7 +130,7 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2021
+ Last Updated on 21/06/2021
 <!--END_SECTION:waka-->
 </details>
 
