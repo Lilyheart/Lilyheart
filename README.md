@@ -41,13 +41,6 @@
 
 ## 📊 Statistics
 
-<a href="#">
-  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lilyheart&hide_border=true&background=FFFFFF&stroke=282828&ring=32698E&fire=32698E&currStreakNum=282828&sideNums=282828&currStreakLabel=282828&sideLabels=282828&dates=888888" />
-</a>
-<a href="#">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lily&hide_border=true&bg_color=FFFFFF&title_color=32698E&text_color=282828&icon_color=32698E" />
-</a>
-
 <details><summary>Additional Statistics</summary>
 
 <!--START_SECTION:waka-->
@@ -140,7 +133,7 @@ R                        1 repo              █░░░░░░░░░░�
 </details>
 
 ## 💬 Languages & Tools
-<details><summary>Details</summary>
+
 <!-- https://simpleicons.org/ -->
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=32698E)
@@ -155,10 +148,13 @@ R                        1 repo              █░░░░░░░░░░�
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=32698E)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilyheart&hide_border=true&bg_color=FFFFFF&title_color=32698E&text_color=282828&icon_color=32698E&layout=compact" />
-</p>
-</details>
+<a href="#">
+  <img align="top" max-width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilyheart&hide_border=true&bg_color=FFFFFF&title_color=32698E&text_color=282828&icon_color=32698E&layout=compact" />
+</a>
+<a href="#">
+  <img align="top" max-width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lily&hide_border=true&bg_color=FFFFFF&title_color=32698E&text_color=282828&icon_color=32698E" />
+</a>
+
 
 ----
 
