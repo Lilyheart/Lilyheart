@@ -44,7 +44,7 @@
 <details><summary>Additional Statistics</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288659%20lines%20of%20code-blue)
 
@@ -52,7 +52,7 @@
 
 > 🏆 359 Contributions in the Year 2021
  > 
-> 📦 178.7 kB Used in Github's Storage 
+> 📦 178.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -89,19 +89,16 @@ Sunday       54 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-CSS                      18 mins             ██████████████████░░░░░░░   73.92% 
-JavaScript               5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.67% 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-travel-site              24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -122,7 +119,7 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/07/2021
+ Last Updated on 02/07/2021
 <!--END_SECTION:waka-->
 </details>
 
