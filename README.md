@@ -89,16 +89,18 @@ Sunday       54 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      1 min               ██████████████░░░░░░░░░░░   56.72% 
+JSON                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.69% 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   18.59%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+travel-site              3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -119,7 +121,7 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
 </details>
 
