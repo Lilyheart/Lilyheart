@@ -18,9 +18,6 @@
   <a href="https://gitlab.com/Lilyheart">
     <img alt="Lily's GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
-  <a href="https://projecteuler.net/progress=Lilyheart">
-    <img alt="Lily's Project Euler" src="https://img.shields.io/badge/Project%20Euler-6B4E3D?style=for-the-badge&logoColor=white" />
-  </a>
   <a href="https://ko-fi.com/lilyheart">
     <img alt="Lily's KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
@@ -142,11 +139,15 @@ R                        1 repo              █░░░░░░░░░░�
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=32698E)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32698E)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=Sass&logoColor=white&color=32698E)
+![](https://img.shields.io/badge/Code-Postcss-informational?style=flat&logo=Postcss&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=32698E)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=32698E)
+![](https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=32698E)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=32698E)
 
