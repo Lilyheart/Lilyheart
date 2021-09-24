@@ -45,11 +45,11 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-280867%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 493 Contributions in the Year 2021
  > 
-> 📦 182.2 kB Used in Github's Storage 
+> 📦 182.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,16 +86,22 @@ Sunday       63 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    11 hrs 51 mins      ██████████████████░░░░░░░   74.02% 
+Python                   4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  11 hrs 51 mins      ██████████████████░░░░░░░   74.01% 
+PyCharm                  4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69% 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CS6601                   15 hrs 59 mins      █████████████████████████   99.81% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +122,7 @@ Arduino                  1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 24/09/2021
 <!--END_SECTION:waka-->
 </details>
 
