@@ -86,20 +86,16 @@ Sunday       69 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               26 mins             ████████████████░░░░░░░░░   63.83% 
-HTML                     13 mins             ████████░░░░░░░░░░░░░░░░░   33.04% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Atom                     42 mins             █████████████████████████   100.0% 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-agile-gitlabce           33 mins             ███████████████████░░░░░░   78.92% 
-AIECode                  8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.08%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -120,7 +116,7 @@ Arduino                  1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/10/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
 </details>
 
