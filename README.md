@@ -86,16 +86,16 @@ Sunday       75 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    2 hrs 4 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  2 hrs 4 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CS6601                   2 hrs 4 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 4 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -116,7 +116,7 @@ Arduino                  1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2021
+ Last Updated on 08/11/2021
 <!--END_SECTION:waka-->
 </details>
 
