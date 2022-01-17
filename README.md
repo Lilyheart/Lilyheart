@@ -27,13 +27,13 @@
 
 <img align=right width="50%" alt="Lily's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lilyheart&count_private=true&hide_border=true&show_icons=true&bg_color=FFFFFF&title_color=32698E&text_color=282828&icon_color=32698E"/>
 
-- 🔭 I’m currently working on **AIECode** (working title)
-  - A website to manage software development projects that are stored in GitLab (and eventually GitHub) using the Agile framework with a focus on secondary and higher education students and educators
+- 🔭 I’m currently working on **Agile in Education** (working title)
+  - A website to manage software development projects that are stored in GitLab and GitHub using the Agile framework with a focus on secondary and higher education students and educators
   - [AIECode live site](https://lilyheart.github.io/AIECode)
-  - [Research Hub](https://www.notion.so/agileineducation/Agile-in-Education-657a88b8a8a845aeb09a28c79deb9563)
+  - [Research Hub](https://agileineducation.notion.site/)
 - 🌱 I’m currently learning at Georgia Tech:
-  - [Education Technology](https://omscs6460.gatech.edu/spring-2021/)
-  - [Software Analysis](http://rightingcode.org/lessons.html)
+  - [Software Development Process](https://omscs.gatech.edu/cs-6300-software-development-process)
+  - [Agile in Education - Master's Project](https://agileineducation.notion.site/)
 - 😄 Pronouns: she/her
 
 ## 📊 Statistics
