@@ -1,10 +1,5 @@
 ### Hi there, I'm Lily 👋
 
-<!-- Trophies
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Lilyheart&theme=nord&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</p>
--->
 <p align="center">
   <a href="https://www.linkedin.com/in/lily-romano/">
     <img alt="Lily's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,15 +25,19 @@
 - 🔭 What I'm currently working on:
   - **Agile in Education** (working title)
     - A website to manage software development projects that are stored in GitLab and GitHub using the Agile framework with a focus on secondary and higher education students and educators
-    - [AIECode live site](https://lilyheart.github.io/AIECode)
     - [Research Hub](https://agileineducation.notion.site/)
   - **Chemics** Tool used by aerosol researchers to help discover how clouds are formed (publication soon)
 - 🌱 What I’m currently learning at Georgia Tech:
-  - [Software Development Process](https://omscs.gatech.edu/cs-6300-software-development-process)
-  - [Agile in Education - Master's Project](https://agileineducation.notion.site/)
+  - Currently on summer break.  Last courses taken were:
+    - [Software Development Process](https://omscs.gatech.edu/cs-6300-software-development-process)
+    - [Agile in Education - Master's Project](https://agileineducation.notion.site/)
 - 😄 Pronouns: she/her
 
 ## 📊 Statistics
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Lilyheart&theme=nord&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+</p>
 
 <details><summary>Additional Statistics</summary>
 
@@ -140,6 +139,7 @@ Arduino                  1 repo              ░░░░░░░░░░░�
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=32698E)
+![](https://img.shields.io/badge/Editor-VCS-informational?style=flat&logo=Visual-Studio&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=32698E)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=32698E)
