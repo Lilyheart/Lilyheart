@@ -25,6 +25,7 @@
 - 🔭 What I'm currently working on:
   - **Agile in Education** (working title)
     - A website to manage software development projects that are stored in GitLab and GitHub using the Agile framework with a focus on secondary and higher education students and educators
+    - [Presentation of Tool Features](https://docs.google.com/presentation/d/e/2PACX-1vSubB45pASb1BmJT2jhvztXWEq524hb3XJwwAo7dNLexVDymk_E-jpLEcToVUKAQfqgZ0GHrPXcim5w/pub)
     - [Research Hub](https://agileineducation.notion.site/)
   - **Chemics** Tool used by aerosol researchers to help discover how clouds are formed (publication soon)
 - 🌱 What I’m currently learning at Georgia Tech:
