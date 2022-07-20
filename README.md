@@ -90,16 +90,21 @@ Sunday       103 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 14 mins             ███████████████░░░░░░░░░░   63.23% 
+JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   31.02% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NVDH Vault               11 mins             █████████████░░░░░░░░░░░░   52.01% 
+Second Brain             10 mins             ████████████░░░░░░░░░░░░░   47.99%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    22 mins             █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +125,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2022 08:18:04 UTC
+ Last Updated on 20/07/2022 08:16:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
