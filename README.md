@@ -43,7 +43,7 @@
 <details><summary>Additional Statistics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -125,7 +125,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lilyheart/Lilyheart/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 08:16:07 UTC
+ Last Updated on 20/08/2022 08:20:26 UTC
 <!--END_SECTION:waka-->
 </details>
 
